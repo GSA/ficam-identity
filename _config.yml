@@ -1,0 +1,96 @@
+# Site settings
+title: Streamline Identity Management Playbook
+name: Streamline Identity Management Playbook
+email: icam@gsa.gov
+author:
+    name: FICAM
+description: Identity Guidance
+baseurl: '/ficam-identity'
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  lachellel
+highlighter: rouge
+branch: master
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /ficam-identity/img/logo.png
+logoalt: Federal Identity Credential and Access Management
+
+ficam_playbooks_url: /ficam-guides/
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+repos:
+- name: program-guides
+  description: FICAM Playbook - Streamline Identity Management
+  url: https://github.com/gsa/ficam-identity
+
+# Build settings
+markdown: kramdown
+
+
+exclude:
+- bin
+- config.rb
+- Gemfile
+- Gemfile.lock
+- gems
+- Procfile
+- Rakefile
+- README.md
+- script
+- vendor
+
+navigation:
+- text: Home
+  url: index.html
+  internal: true
+  coll: false
+- text: Step 1 - Collect Core Identity Attributes
+  url: 1_step-1
+  internal: true
+  coll: false
+- text: Step 2 - Identify Authoritative Data Source(s)
+  url: 2_step-2
+  internal: true
+  coll: false
+- text: Step 3 - Improve Back-end Collection Processes
+  url: 3_step-3
+  internal: true
+  coll: false
+- text: Step 4 - Streamline HR Processing
+  url: 4_step-4
+  internal: true
+  coll: false
+- text: Step 5 - Streamline Background Investigation Processing
+  url: 5_step-5
+  internal: true
+  coll: false
+- text: Step 6 - Streamline Contractor Processing
+  url: 6_step-6
+  internal: true
+  coll: false
+- text: Step 7 - Address Attribute Exchange Elements
+  url: 7_step-7
+  internal: true
+  coll: false
+- text: Step 8 - Link Identity Attributes
+  url: 8_step-8
+  internal: true
+  coll: false
+- text: Step 9 - Integrate AAES With IT Infrastructure
+  url: 9_step-9
+  internal: true
+  coll: false
+- text: Step 10 - Implement Attribute Exchange Infrastructure
+  url: 10_step-10
+  internal: true
+  coll: false
+include:
+- _stylesheets
+- _javascript
+
+
+
+# Custom site configuration
+lang: en
