@@ -21,7 +21,7 @@ An authoritative data source for identity is a repository or system that contain
 Within many federal agencies, authoritative identity data is dispersed across a number of different systems that are often independently managed. Some agencies, however, may operate a single centralized repository of identity data, such as an Identity Management System (IDMS). While your agency is not required to have a single repository of identity data, it’s expected your agency designate an authoritative data source for each data element in the Core Person Model and work to minimize the number of data sources used to collect and maintain the same identity information. In cases where an agency houses identity data elements across several authoritative data sources, it’s recommended that it share or map identifiers between the data sources to avoid collisions and errors.
 
 
-### Checklist 
+## <span style="color: #0C5C89">**Checklist**</span>
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Determine where identity data is stored.** Identifying which systems/resources are authoritative for specific identity attributes involves determining where identity attributes are first recorded and updated. 
 

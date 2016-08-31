@@ -19,7 +19,7 @@ $(function() {
 Agencies should eliminate duplicate and/or redundant digital identity records to ensure that each federal user has only a single digital identity. Managing a single digital identity record for each user within the organization requires that an agency establish a process to link or bind identity attributes to the appropriate record. There are three common techniques for accomplishing this: (1) Unique Person Identifiers, (2) Multi-Attribute Keys, and (3) Manual Identity Attribute Correlation. 
 
 
-### Checklist
+## <span style="color: #0C5C89">**Checklist**</span>
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Evaluate approaches for linking identity attributes to the appropriate record and determine which method meets your needs.**
 

@@ -19,7 +19,7 @@ $(function() {
 The Human Resources (HR) department is usually the primary source of personal data for federal employees and support staff within many agencies. HR is usually the first group within an agency to receive an individual’s identity information, often through the job application and employee on-boarding processes. By targeting integration and streamlining of these HR processes, you can see significant benefits to user life cycle management.
 
 
-### Checklist
+## <span style="color: #0C5C89">**Checklist**</span>
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Streamline data exchange.** Integrate agency recruiting systems with government-wide applications to enable pre-population of on-boarding data provided by the applicant during the recruiting process.
 

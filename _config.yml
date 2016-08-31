@@ -86,6 +86,10 @@ navigation:
   url: 10_step-10
   internal: true
   coll: false
+- text: Contribute
+  url: contribute
+  internal: true
+  coll: false
 include:
 - _stylesheets
 - _javascript

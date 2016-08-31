@@ -19,7 +19,7 @@ $(function() {
 Data collected during a background investigation contains a person’s core digital identity. By integrating and streamlining personnel security and background investigation processes, the processes around creating and populating the digital identity can be significantly improved.
 
 
-### Checklist
+## <span style="color: #0C5C89">**Checklist**</span>
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Use data captured during the PIV enrollment process.** Capturing data once and reusing it creates a more efficient process, while a limited number of data collection points enhances data privacy. For example, many biographic data elements (e.g., name, DOB) collected during PIV enrollment can also be used during the background investigation to reduce redundancy.
 

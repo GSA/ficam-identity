@@ -39,7 +39,7 @@ The ICAM Subcommittee developed the government-wide Core Person Model for agenci
 
 <br>
 
-### Checklist
+## <span style="color: #0C5C89">**Checklist**</span>
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Identify where each data element is collected and stored.** It’s important to know the location of each attribute and the responsible office or group(s) that collect and maintain data elements. 
 
@@ -50,7 +50,7 @@ The ICAM Subcommittee developed the government-wide Core Person Model for agenci
 > <i class="fa fa-check-square-o"></i> &nbsp;**Identify opportunities for process integration.** You should identify redundancies in data collection associated with the Core Person Model and determine opportunities to integrate and streamline these business processes by referencing existing identity data. 
 
 
-### Benefits
+## <span style="color: #0C5C89">**Benefits**</span>
 
 > <i class="fa fa-thumbs-o-up" aria-hidden="true"></i> &nbsp;**Eliminate redundant identity data creation.** Your agency will be able to reduce or eliminate the need for extra business processes that may collect redundant identity data for specific application use. 
 

@@ -29,7 +29,7 @@ Although contractors may require similar access to federal employees, the method
 To overcome these challenges, your agency should establish a process for managing contractor identity data for contractors who require identity credentials and access to agency resources.
 
 
-### Checklist
+## <span style="color: #0C5C89">**Checklist**</span>
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Enhance on-boarding process.** Your agency should replace manual, paper-based forms and processes with digital methods (e.g., digital signatures, online portals) wherever possible during the contractor on-boarding process. This process should be communicated and followed by all relevant parties so there’s no ambiguity in the way contractors are introduced into the agency.
 

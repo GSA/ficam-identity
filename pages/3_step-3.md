@@ -19,7 +19,7 @@ $(function() {
 Back-end processes are used to obtain identity data to determine where processes can be enhanced and improved. Per OMB Circular A-123, management is responsible for establishing and maintaining internal controls to achieve the objectives of effective and efficient operations, reliable financial reporting, and compliance with applicable laws and regulations. This responsibility is also held by ICAM implementers, who are accountable for improving the effectiveness, quality, and productivity of federal programs and operations. The goals of OMB Circular A-123 closely align with the effort to improve the processes within an agency that collect identity data.
 
 
-### Checklist
+## <span style="color: #0C5C89">**Checklist**</span>
 
 > <i class="fa fa-check-square-o"></i> &nbsp;**Conduct internal information gathering with business owners to identify all of the processes within the core business areas that involve collection of identity.** Use specific criteria to define what constitutes a core business process. Take steps to ensure successful engagement and participation of relevant process owners. Take steps to ensure the availability of process and related data element information gathered.
 
@@ -34,7 +34,7 @@ Back-end processes are used to obtain identity data to determine where processes
 > <i class="fa fa-check-square-o"></i> &nbsp;**Develop methods for continuously monitoring and measuring success of the process improvement effort.** Conduct surveys to trach end-user satisfaction. Conduct surveys to support staff productivity and satisfaction. Capture process efficiency, data quality, and cost savings. Establish governance and reporting requirements. Create a process control board. Review audit logs and workflow of sensitive information flows.
 
 
-### Benefits
+## <span style="color: #0C5C89">**Benefits**</span>
 
 > <i class="fa fa-thumbs-o-up" aria-hidden="true"></i> &nbsp;**Increased levels of process efficiency.** The need to manually collect and manage data significantly decreases, allowing agencies to focus on core business functions.
 
